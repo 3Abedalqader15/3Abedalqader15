@@ -24,18 +24,20 @@
 ```yaml
 name       : Abedalqader Alfaqeeh
 location   : Jordan 🇯🇴
-degree     : B.Sc. Computer Science — Al-Balqa Applied University (2026)
+degree     : B.Sc. Computer Science — Al-Balqa Applied University (2022 – 2026)
 GPA        : 3.33 / 4.0
 
 focus:
   - ASP.NET Core 8 — REST API design & Clean Architecture
-  - EF Core + SQL Server — query optimization & migrations
+  - EF Core + SQL Server / PostgreSQL — query optimization & migrations
   - JWT Auth + Role-Based Authorization
+  - RabbitMQ — event-driven, message-based microservices
   - Angular 17 — full-stack capabilities
   - LLM API Integration (Anthropic Claude, OpenAI)
 
 currently:
-  - Looking for a backend .NET developer role
+  - Delivering freelance full-stack .NET development work
+  - Open to full-time backend .NET roles (on-site, remote, or contract)
   - Building personal projects & improving API design skills
   - Exploring AI-powered backend features
 ```
@@ -60,6 +62,10 @@ currently:
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Messaging & Architecture**
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **Frontend**
 
@@ -154,6 +160,21 @@ currently:
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🌐 Byteqon Technologies *(In Progress)*
+> Scalable technology platform to showcase software services and projects
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+- ✅ Full-stack web development with a responsive UI
+- ✅ Third-party API integration
+- ✅ Maintainable architecture prepared for future modules and AI-ready features
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -166,26 +187,42 @@ currently:
 
 | Role | Company | Duration |
 |------|----------|----------|
-| 🧑‍💻 **.NET Developer Intern** | Estrella-Soft | Aug 2025 – Dec 2025 |
+| 🧑‍💻 **Freelance Full Stack .NET Developer** | Remote | Present |
+| 🧑‍💻 **.NET Developer** | Estrella-Soft, Amman | Aug 2025 – Dec 2025 |
 
 </div>
 
-- Developed and optimized **ASP.NET Core APIs** for real-world production scenarios
-- Improved **EF Core query performance** and implemented clean architecture patterns
-- Collaborated in **Agile sprints** with Git/GitHub workflows
+**Freelance Full Stack .NET Developer — Remote**
+- Develop and maintain full-stack web applications, RESTful APIs, and responsive interfaces based on client requirements
+- Build backend services with ASP.NET Core and EF Core, integrate Angular frontends, and implement authentication, authorization, and validation
+- Design maintainable solutions using Clean Architecture, SOLID principles, DTOs, and repository patterns, following Git-based workflows
+
+**.NET Developer — Estrella-Soft**
+- Developed and optimized ASP.NET Core APIs for business scenarios, focusing on clean endpoint design and maintainable, database-backed services
+- Built and supported full-stack components using ASP.NET Core, Entity Framework Core, and SQL databases, with Git/GitHub workflows and code reviews
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3Abedalqader15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Abedalqader15&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117" />
+<!--
+هاي الصورة مولّدة عبر GitHub Action (lowlighter/metrics) ومخزّنة كملف SVG ثابت
+داخل هذا الـ repo — مش طلب حي لخدمة خارجية، فبتضل شغالة حتى لو أي خدمة
+طرف-ثالث وقفت لاحقاً. راجع .github/workflows/metrics.yml وتعليمات الإعداد تحت.
+-->
+<img src="https://raw.githubusercontent.com/3Abedalqader15/3Abedalqader15/main/metrics.svg" alt="GitHub Metrics" />
 
-<br/>
+</div>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=3Abedalqader15&theme=tokyonight&hide_border=true&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&background=0d1117" />
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=3Abedalqader15&theme=tokyonight&hide_border=true&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -196,16 +233,6 @@ currently:
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=3Abedalqader15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=3Abedalqader15&theme=tokyo-night&hide_border=true&area=true&area_color=533483&color=a78bfa&line=7c3aed&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
